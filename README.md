@@ -6,7 +6,7 @@ Sup! This is the main repository for our custom, interconnected hardware ecosyst
 
 ## 👥 The Team
 *   **Chief Editor & Lead Researcher:** Ayan  
-*   **Technical Layout & Hardware Integration:** Nilabh  
+*   **Technical Layout & Hardware Integration:** Nilabh, Krishiv and Samridh
 
 ---
 
